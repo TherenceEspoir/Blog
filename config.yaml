@@ -1,4 +1,4 @@
-baseURL : "https://therenceespoir.github.io/myblog/"
+baseURL : "https://therenceespoir.github.io/Blog/"
 title: ExampleSite
 paginate: 5
 theme: PaperMod
